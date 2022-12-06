@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello, I'm Ilya Lisitskiy
 
-<!--
-**7CreAtoR7/7CreAtoR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Android developer
 
-Here are some ideas to get you started:
+### Languages and Tools:
+![Android](https://img.shields.io/badge/-Android-18232B?style=for-the-badge&logo=android)
+![Java](https://img.shields.io/badge/-JAVA-18232B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSIxNTBweCIgaGVpZ2h0PSIxNTBweCI%2BPHBhdGggZD0iTTI0LjY0NiwyNi4xMjFjLTEuMzAyLTIuMDE0LTIuMjQyLTMuNjgtMy41NDgtNi44MTdjLTIuMjA4LTUuMzA2LDEzLjQzMy0xMC4xLDcuMDg3LTE5LjMwNmMyLjc1LDYuMzYzLTkuODYzLDEwLjI5MS0xMS4wMzQsMTUuNTkzQzE2LjA3NSwyMC40NjIsMjQuNjM5LDI2LjEyMSwyNC42NDYsMjYuMTIxeiIvPjxwYXRoIGQ9Ik0yNC45NDIgMTYuNTgzYy0uMjUxIDMuMTQ4IDIuOTAzIDQuODI4IDIuOTkzIDcuMTE5LjA3MyAxLjg3MS0xLjg4NSAzLjQyOC0xLjg4NSAzLjQyOHMzLjU1Mi0uNjY3IDQuNjYyLTMuNTI0YzEuMjMxLTMuMTY3LTIuMzg2LTUuMzMxLTIuMDE5LTcuODY3LjM1MS0yLjQyNiA3Ljg1OC02LjkyOCA3Ljg1OC02LjkyOFMyNS41MDUgOS41MTEgMjQuOTQyIDE2LjU4M3pNMzUuNjI1IDI2LjMxNWMyLjI4My0uNDkyIDQuMjExLjkwNCA0LjIxMSAyLjUxNSAwIDMuNjI0LTUuMjM2IDcuMDQ5LTUuMjM2IDcuMDQ5czguMTA4LS45MjcgOC4xMDgtNi44ODFDNDIuNzA4IDI1LjA2NSAzOC43MjUgMjQuMDg0IDM1LjYyNSAyNi4zMTV6Ii8%2BPHBhdGggZD0iTTMxLjc3OSwyOS4yNGMwLDAsMi41MjktMS43MywzLjIwMS0yLjM3NmMtNi4yMDIsMS4yNjQtMjAuMzYsMS40MzItMjAuMzYsMC4zMzdjMC0xLjAwOSw0LjU2My0yLjA0OSw0LjU2My0yLjA0OXMtMTAuMTItMC4xMzktMTAuMTIsMi43MjZDOS4wNjQsMzAuODY5LDIyLjMxNSwzMS4wOCwzMS43NzksMjkuMjR6Ii8%2BPHBhdGggZD0iTTMwLjIyMywzMS45NmMtNS44NjcsMS44NzgtMTYuNjg1LDEuMjc2LTEzLjQ4My0xLjIzOGMtMS41NTQsMC0zLjg3LDEuMjAyLTMuODcsMi4zNTdjMCwyLjMyNSwxMS42OTMsNC4xMTUsMjAuMzQ5LDAuNzE5TDMwLjIyMywzMS45NnoiLz48cGF0aCBkPSJNMTguMTgsMzUuOTIyYy0yLjEyOCwwLTMuNTA5LDEuMzE1LTMuNTA5LDIuMjhjMCwyLjk4NSwxMi43MDgsMy4yODYsMTcuNzQ0LDAuMjUxbC0zLjItMi4wMzdDMjUuNDU0LDM4LjAwNywxNi4wMDgsMzguMjIyLDE4LjE4LDM1LjkyMnoiLz48cGF0aCBkPSJNNDAuODksNDAuOTI0YzAtMS4xNjctMS4zNzQtMS43MjEtMS44Ny0xLjk4NmMyLjkwMSw2LjcxOC0yOS4wNTIsNi4xOTYtMjkuMDUyLDIuMjMzYzAtMC45MDQsMi4zNDctMS43ODcsNC41MjUtMS4zNjVsLTEuODQ4LTEuMDQ5Yy00LjMzNS0wLjY1NS03LjI3OSwxLjE3MS03LjI3OSwyLjY0OEM1LjM2NSw0OC4yODEsNDAuODksNDcuOTUsNDAuODksNDAuOTI0eiIvPjxwYXRoIGQ9Ik00NC42MzUsNDMuMjVjLTUuNCw1LjExOS0xOS4wODksNi45ODQtMzIuODUzLDMuODIzQzI1LjU0NSw1Mi43MDQsNDQuNTY3LDQ5LjUzNiw0NC42MzUsNDMuMjV6Ii8%2BPC9zdmc%2B)
+![Kotlin](https://img.shields.io/badge/-KOTLIN-18232B?style=for-the-badge&logo=Kotlin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-PYTHON-18232B?style=for-the-badge&logo=Python&logoColor=FFD140)
+![Qt](https://img.shields.io/badge/-PyQt-18232B?style=for-the-badge&logo=Qt)
+![SQL](https://img.shields.io/badge/-SQL-18232B?style=for-the-badge&logo=PostgreSQL)
+
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-18232B?style=for-the-badge&logo=Telegram)](https://t.me/ilyaLis)
